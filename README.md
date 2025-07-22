@@ -39,11 +39,11 @@ Além de HTML, CSS e JavaScript, pretendo aprender futuramente:
 ## 📫 Como me encontrar
 
 <a href="https://www.instagram.com/bruunolzz/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" _blank height= 20px >
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height= 20px >
 </a>
 
 <a href="https://www.linkedin.com/in/bruno-luiz-212056284/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height= 20px >
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height= 20px >
 </a>
 
 
